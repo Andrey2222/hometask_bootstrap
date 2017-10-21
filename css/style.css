@@ -41,3 +41,25 @@ form {
 .left-icon {
 	margin-top: 10px;
 }
+sub {
+	opacity: 0.6;
+}
+
+p.project {
+	padding-top: 10px
+}
+.center-menu {
+	background-color: #CCFFE5;
+}
+.table-font {
+	background-color: #FFFFFF;
+	border: 2px solid #0B7CFD;
+}
+.table-position {
+	padding: 10px;
+}
+.table-word {
+	padding-top: 8px;
+	box-sizing: border-box;
+	display: inline-block;
+}
