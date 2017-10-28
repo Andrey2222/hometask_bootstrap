@@ -52,13 +52,28 @@ p.project {
 }
 .table-font {
 	background-color: #FFFFFF;
-	border: 2px solid #0B7CFD;
+	
 }
 .table-position {
 	padding: 10px;
+	border: 2px solid #0B7CFD;
+}
+.table2 {
+	margin-top: 20px;
+	border: 2px solid #0B7CFD;
 }
 .table-word {
-	padding-top: 8px;
 	box-sizing: border-box;
 	display: inline-block;
+}
+.role {
+	font-size: 15px;
+	margin-top: 6px;
+	box-sizing: border-box;
+}
+.icon-elements {
+	margin-top: 10px;
+}
+.searh {
+	margin-top: 10px;
 }
