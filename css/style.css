@@ -1,0 +1,79 @@
+.project {
+	font-size: 25px;
+}
+.top-icon {
+	padding-top: 18px;
+}
+.panda {
+	padding-top: 8px;
+}
+
+.panda em {
+	font-weight: bold;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+	color: darkorange;
+}
+.left-menu {
+	background-color: #404040;
+	color: white;
+}
+.panda-menu {
+	padding: 5px 0;
+	margin: 0;
+}
+.online {
+	background-color: green;
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	border-radius: 15px;
+}
+
+form {
+	margin-top: 5px;
+}
+.left-icon {
+	margin-top: 10px;
+}
+sub {
+	opacity: 0.6;
+}
+
+p.project {
+	padding-top: 10px
+}
+.center-menu {
+	background-color: #CCFFE5;
+}
+.table-font {
+	background-color: #FFFFFF;
+	
+}
+.table-position {
+	padding: 10px;
+	border: 2px solid #0B7CFD;
+}
+.table2 {
+	margin-top: 20px;
+	border: 2px solid #0B7CFD;
+}
+.table-word {
+	box-sizing: border-box;
+	display: inline-block;
+}
+.role {
+	font-size: 15px;
+	margin-top: 6px;
+	box-sizing: border-box;
+}
+.icon-elements {
+	margin-top: 10px;
+}
+.searh {
+	margin-top: 10px;
+}
